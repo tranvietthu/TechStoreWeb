@@ -143,13 +143,6 @@ Potential next steps for the project:
 - [ ] Test and refine Docker Compose configuration.
 - [ ] Add deployment, security, and monitoring documentation.
 
-### Contributing and support
-
-Bug reports and improvement suggestions can be submitted through [GitHub Issues](https://github.com/tranvietthu/ProjectCongNghePhanMem/issues). Please describe the expected behavior, actual behavior, and steps to reproduce.
-
-**Repository:** [tranvietthu/ProjectCongNghePhanMem](https://github.com/tranvietthu/ProjectCongNghePhanMem)
-
-**License:** No license is declared in this README. Consult the repository for an applicable `LICENSE` file before reusing or redistributing code.
 
 ---
 
@@ -288,10 +281,4 @@ Repository có Dockerfile build ứng dụng .NET 10 và `docker-compose.yml` kh
 - [ ] Kiểm thử và chuẩn hóa cấu hình Docker Compose.
 - [ ] Viết tài liệu triển khai, bảo mật và giám sát ứng dụng.
 
-### Đóng góp và liên hệ
 
-Mọi lỗi hoặc đề xuất cải tiến có thể tạo tại [GitHub Issues](https://github.com/tranvietthu/ProjectCongNghePhanMem/issues). Khi báo lỗi, nên mô tả kết quả mong đợi, kết quả thực tế và các bước tái hiện.
-
-**Repository:** [tranvietthu/ProjectCongNghePhanMem](https://github.com/tranvietthu/ProjectCongNghePhanMem)
-
-**Giấy phép:** README này chưa công bố giấy phép sử dụng. Cần kiểm tra tệp `LICENSE` (nếu có) trước khi tái sử dụng hoặc phân phối mã nguồn.
